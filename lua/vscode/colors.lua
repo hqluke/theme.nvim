@@ -5,20 +5,20 @@ colors.get_colors = function()
     if vim.o.background == 'dark' then
         mycolors = {
             vscNone = 'NONE',
-            vscFront = '#D4D4D4',
-            vscBack = '#1F1F1F',
+            vscFront = '#000000',
+            vscBack = '#000000',
 
-            vscTabCurrent = '#1F1F1F',
-            vscTabOther = '#2D2D2D',
-            vscTabOutside = '#252526',
+            vscTabCurrent = '#000000',
+            vscTabOther = '#000000',
+            vscTabOutside = '#000000',
 
-            vscLeftDark = '#252526',
-            vscLeftMid = '#373737',
-            vscLeftLight = '#636369',
+            vscLeftDark = '#000000',
+            vscLeftMid = '#000000',
+            vscLeftLight = '#000000',
 
-            vscPopupFront = '#BBBBBB',
-            vscPopupBack = '#202020',
-            vscPopupHighlightBlue = '#04395E',
+            vscPopupFront = '#000000',
+            vscPopupBack = '#000000',
+            vscPopupHighlightBlue = '#000000',
             vscPopupHighlightGray = '#343B41',
 
             vscSplitLight = '#898989',
