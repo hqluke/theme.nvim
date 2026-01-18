@@ -65,7 +65,7 @@ colors.get_colors = function()
             vscDarkBlue = '#223E55',
             vscMediumBlue = '#18a2fe',
             vscDisabledBlue = '#729DB3',
-            vscLightBlue = '#FFBCFF',
+            vscLightBlue = '#FFBCFF', -- #9CDCFE
             vscGreen = '#6A9955',
             vscBlueGreen = '#4EC9B0',
             vscLightGreen = '#B5CEA8',
@@ -75,7 +75,7 @@ colors.get_colors = function()
             vscYellowOrange = '#D7BA7D',
             vscYellow = '#DCDCAA',
             vscDarkYellow = '#FFD602',
-            vscPink = '#C586C0',
+            vscPink = '#00D9FF', -- #C586C0
 
             -- Low contrast with default background
             vscDimHighlight = '#51504F',
